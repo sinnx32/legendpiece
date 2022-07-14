@@ -1,3 +1,8 @@
+-- OPEN SOURCE CUZ WHY NOT?? 
+-- BROUGHT TO YOU BY PROXO, NEED HELP WITH THE SCRIPT ADD Sintax#4976
+-- discord server https://discord.gg/6HXUbCcMc7
+
+
 local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/miroeramaa/TurtleLib/main/TurtleUiLib.lua"))()
 local window = library:Window("Legend Piece by Proxo")
 window:Button("Start Auto Farm", function()
